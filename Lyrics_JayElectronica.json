@@ -1,0 +1,3556 @@
+{
+ "alternate_names": [
+  "Elpadaro Thedford",
+  "Timothy Thedford",
+  "Timothy Elpadaro Thedford",
+  "Timothy E. Thedford",
+  "Elpadaro F. Electronica Allah"
+ ],
+ "api_path": "/artists/198",
+ "description": {
+  "plain": "Timothy Elpadaro Thedford (born September 19, 1976), better known by his stage name Jay Electronica, is an American rapper and record producer. He is from New Orleans, Louisiana and currently based in London, United Kingdom.\n\nElectronica first gained significant attention after the release of the musical composition Act I: Eternal Sunshine (The Pledge), which was made available on a MySpace page in 2007 and has been called a \u201ctimeless classic\u201d by Vice Magazine. It is fifteen continuous minutes of music, without drums, built from Jon Brion\u2019s soundtrack to the film Eternal Sunshine of the Spotless Mind. In late 2009 he released two singles, both produced by Just Blaze, \u201cExhibit A\u201d and \u201cExhibit C\u201d, the latter of which won a Sucker Free Summit Award for Instant Classic. In November 2010, it was announced Jay Electronica had signed to hip hop mogul Jay Z\u2019s Roc Nation record label.\n\nMore than a decade after his last project, What the Fuck is a Jay Electronica, and almost exactly eight years to the DAY after he reportedly finished and turned in his album, Jay Electronica finally released his debut studio album A Written Testimony on March 13, 2020. The album features Jay-Z on eight of its ten tracks, leading some to label it a collab album between the two Jays. The-Dream also makes three appearances, and even Travis Scott makes a surprising appearance on \u201cThe Blinding.\u201d"
+ },
+ "facebook_name": "105546526145858",
+ "followers_count": 694,
+ "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+ "id": 198,
+ "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+ "instagram_name": "19isHisNumber",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Jay Electronica",
+ "translation_artist": false,
+ "twitter_name": "jayelectronica",
+ "url": "https://genius.com/artists/Jay-electronica",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 115,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11524,
+  "annotator_login": "tomi",
+  "api_path": "/referents/6925827",
+  "classification": "accepted",
+  "fragment": "Jay Electronica",
+  "id": 6925827,
+  "is_description": true,
+  "path": "/6925827/Jay-electronica/Jay-electronica",
+  "range": {
+   "content": "Jay Electronica"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6925827/Jay-electronica/Jay-electronica",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/198",
+   "context": null,
+   "id": 198,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+   "link_title": "Jay Electronica",
+   "title": "Jay Electronica",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jay-electronica"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6925827",
+    "body": {
+     "plain": "Timothy Elpadaro Thedford (born September 19, 1976), better known by his stage name Jay Electronica, is an American rapper and record producer. He is from New Orleans, Louisiana and currently based in London, United Kingdom.\n\nElectronica first gained significant attention after the release of the musical composition Act I: Eternal Sunshine (The Pledge), which was made available on a MySpace page in 2007 and has been called a \u201ctimeless classic\u201d by Vice Magazine. It is fifteen continuous minutes of music, without drums, built from Jon Brion\u2019s soundtrack to the film Eternal Sunshine of the Spotless Mind. In late 2009 he released two singles, both produced by Just Blaze, \u201cExhibit A\u201d and \u201cExhibit C\u201d, the latter of which won a Sucker Free Summit Award for Instant Classic. In November 2010, it was announced Jay Electronica had signed to hip hop mogul Jay Z\u2019s Roc Nation record label.\n\nMore than a decade after his last project, What the Fuck is a Jay Electronica, and almost exactly eight years to the DAY after he reportedly finished and turned in his album, Jay Electronica finally released his debut studio album A Written Testimony on March 13, 2020. The album features Jay-Z on eight of its ten tracks, leading some to label it a collab album between the two Jays. The-Dream also makes three appearances, and even Travis Scott makes a surprising appearance on \u201cThe Blinding.\u201d"
+    },
+    "comment_count": 6,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6925827,
+    "pinned": false,
+    "share_url": "https://genius.com/6925827",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6925827/Jay-electronica/Jay-electronica",
+    "verified": false,
+    "votes_total": 49,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6320346320346321,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 271182,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.367965367965368,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5109097",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b2d2eeb6d3aa94e2f4775a3578b593be",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b2d2eeb6d3aa94e2f4775a3578b593be",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b2d2eeb6d3aa94e2f4775a3578b593be",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b2d2eeb6d3aa94e2f4775a3578b593be",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/b2d2eeb6d3aa94e2f4775a3578b593be",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5109097,
+       "iq": 4108,
+       "login": "yikesSSB",
+       "name": "yikesSSB",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/yikesSSB",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/2897622",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.rapgenius.com/avatars/tiny/e6efb52a9b782d893fd700d76cff787c",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.rapgenius.com/avatars/thumb/e6efb52a9b782d893fd700d76cff787c",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.rapgenius.com/avatars/small/e6efb52a9b782d893fd700d76cff787c",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.rapgenius.com/avatars/medium/e6efb52a9b782d893fd700d76cff787c",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.rapgenius.com/avatars/medium/e6efb52a9b782d893fd700d76cff787c",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 2897622,
+  "iq": 115,
+  "login": "JayElec",
+  "name": "Jay Electronica",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/JayElec",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 59,
+   "api_path": "/songs/788",
+   "apple_music_id": "1438554626",
+   "apple_music_player_url": "https://genius.com/songs/788/apple_music_player",
+   "description": {
+    "plain": "Produced by Just Blaze, \"Exhibit C\" is the sequel to Exhibit A.\n\nJay does the meme \"what\u2019s going on in my career right now\" trope that is really popular with his peers (c.f. Drake\u2019s \"Over\" and J. Cole\u2019s \"Grown Simba\").\n\nIn Exhibit C, he seems to be testifying\u2014in both the legal sense (it\u2019s a case) and in the Black cultural sense, testifying, telling his life story.\n\nJust from this song\u2019s beginning (\"When I was sleepin' on trains\u2026\") and its ending (\"My light is brilliant\"), we can see how far Jay has come.\n\nThis song is Jay Electronica chronicling his path to greatness. And this song might be essential to his greatness."
+   },
+   "embed_content": "<div id='rg_embed_link_788' class='rg_embed_link' data-song-id='788'>Read <a href='https://genius.com/Jay-electronica-exhibit-c-lyrics'>\u201cExhibit C\u201d by Jay\u00a0Electronica</a> on Genius</div> <script crossorigin src='//genius.com/songs/788/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Exhibit C by\u00a0Jay\u00a0Electronica",
+   "header_image_thumbnail_url": "https://i.genius.com/92268c0ea67b2249ba5f41cb7dbb82b58dc19cbf?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000049765053-r8imk5-t500x500.jpg",
+   "header_image_url": "https://i.genius.com/92268c0ea67b2249ba5f41cb7dbb82b58dc19cbf?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000049765053-r8imk5-t500x500.jpg",
+   "id": 788,
+   "lyrics_owner_id": 531,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jay-electronica-exhibit-c-lyrics",
+   "pyongs_count": 66,
+   "recording_location": null,
+   "release_date": "2009-12-22",
+   "release_date_for_display": "December 22, 2009",
+   "song_art_image_thumbnail_url": "https://i.genius.com/92268c0ea67b2249ba5f41cb7dbb82b58dc19cbf?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000049765053-r8imk5-t500x500.jpg",
+   "song_art_image_url": "https://i.genius.com/92268c0ea67b2249ba5f41cb7dbb82b58dc19cbf?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000049765053-r8imk5-t500x500.jpg",
+   "stats": {
+    "accepted_annotations": 56,
+    "contributors": 184,
+    "iq_earners": 184,
+    "transcribers": 0,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 368058
+   },
+   "title": "Exhibit C",
+   "title_with_featured": "Exhibit C",
+   "url": "https://genius.com/Jay-electronica-exhibit-c-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/75245",
+    "cover_art_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.500x500x1.jpg",
+    "full_title": "Victory by Jay Electronica",
+    "id": 75245,
+    "name": "Victory",
+    "url": "https://genius.com/albums/Jay-electronica/Victory",
+    "artist": {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1136272",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 1136272,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Decon Records",
+       "url": "https://genius.com/artists/Decon-records"
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1954",
+       "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "id": 1954,
+       "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Just Blaze",
+       "url": "https://genius.com/artists/Just-blaze",
+       "iq": 662
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1954",
+       "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "id": 1954,
+       "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Just Blaze",
+       "url": "https://genius.com/artists/Just-blaze",
+       "iq": 662
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 131,
+    "annotator_login": "superflyronald",
+    "api_path": "/referents/3490535",
+    "classification": "accepted",
+    "fragment": "Exhibit C",
+    "id": 3490535,
+    "is_description": true,
+    "path": "/3490535/Jay-electronica-exhibit-c/Exhibit-c",
+    "range": {
+     "content": "Exhibit C"
+    },
+    "song_id": 788,
+    "url": "https://genius.com/3490535/Jay-electronica-exhibit-c/Exhibit-c",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/788",
+     "client_timestamps": {
+      "updated_by_human_at": 1584400479,
+      "lyrics_updated_at": 1584400479
+     },
+     "context": "Jay Electronica",
+     "id": 788,
+     "image_url": "https://i.genius.com/92268c0ea67b2249ba5f41cb7dbb82b58dc19cbf?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000049765053-r8imk5-t500x500.jpg",
+     "link_title": "Exhibit C by\u00a0Jay\u00a0Electronica",
+     "title": "Exhibit C",
+     "type": "Song",
+     "url": "https://genius.com/Jay-electronica-exhibit-c-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3490535",
+      "body": {
+       "plain": "Produced by Just Blaze, \"Exhibit C\" is the sequel to Exhibit A.\n\nJay does the meme \"what\u2019s going on in my career right now\" trope that is really popular with his peers (c.f. Drake\u2019s \"Over\" and J. Cole\u2019s \"Grown Simba\").\n\nIn Exhibit C, he seems to be testifying\u2014in both the legal sense (it\u2019s a case) and in the Black cultural sense, testifying, telling his life story.\n\nJust from this song\u2019s beginning (\"When I was sleepin' on trains\u2026\") and its ending (\"My light is brilliant\"), we can see how far Jay has come.\n\nThis song is Jay Electronica chronicling his path to greatness. And this song might be essential to his greatness."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3490535,
+      "pinned": false,
+      "share_url": "https://genius.com/3490535",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3490535/Jay-electronica-exhibit-c/Exhibit-c",
+      "verified": false,
+      "votes_total": 97,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.3893805309734513,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7169",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/5NP5iiuMRtSDBlEdp90t.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/5NP5iiuMRtSDBlEdp90t.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/5NP5iiuMRtSDBlEdp90t.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/5NP5iiuMRtSDBlEdp90t.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/5NP5iiuMRtSDBlEdp90t.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7169,
+         "iq": 18969,
+         "login": "Conch",
+         "name": "Conch",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Conch",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3185840707964602,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/131",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 131,
+         "iq": 89035,
+         "login": "superflyronald",
+         "name": "Superflyronald",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/superflyronald",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.19469026548672566,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7,
+         "iq": 481767,
+         "login": "Maboo",
+         "name": "Maboo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Maboo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.09734513274336283,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1298",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/1298_DSC_0133.NEF.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288170_1298_DSC_0133.NEF.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288170_1298_DSC_0133.NEF.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288169_1298_DSC_0133.NEF.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288169_1298_DSC_0133.NEF.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1298,
+         "iq": 9554,
+         "login": "KingDom",
+         "name": "KingDom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/KingDom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0HPuNce0rwmq6aLpX3bIdo",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0HPuNce0rwmq6aLpX3bIdo"
+    },
+    {
+     "attribution": "goody2014",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/goody2014/01-jay-electronica-exhibit-c"
+    },
+    {
+     "provider": "youtube",
+     "start": 1,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9OOSsEgtdXg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/198",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "id": 198,
+    "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jay Electronica",
+    "url": "https://genius.com/artists/Jay-electronica",
+    "iq": 115
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1954",
+     "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "id": 1954,
+     "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Just Blaze",
+     "url": "https://genius.com/artists/Just-blaze",
+     "iq": 662
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/275011",
+       "full_title": "Cross My Heart by\u00a0Billy\u00a0Stewart",
+       "header_image_thumbnail_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.500x500x1.jpg",
+       "id": 275011,
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Billy-stewart-cross-my-heart-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5068
+       },
+       "title": "Cross My Heart",
+       "title_with_featured": "Cross My Heart",
+       "url": "https://genius.com/Billy-stewart-cross-my-heart-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/98361",
+        "header_image_url": "https://images.genius.com/71cc4136893071401346ba9c6943e3e6.400x225x1.jpg",
+        "id": 98361,
+        "image_url": "https://images.genius.com/d22cb3de8459bf7ccbf914b35d3c4423.386x386x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Billy Stewart",
+        "url": "https://genius.com/artists/Billy-stewart"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 17,
+       "api_path": "/songs/3545",
+       "full_title": "Exhibit Based by\u00a0Lil\u00a0B",
+       "header_image_thumbnail_url": "https://images.genius.com/6f6f7e8f72496aa2032d61a2de46649f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6f6f7e8f72496aa2032d61a2de46649f.1000x1000x1.jpg",
+       "id": 3545,
+       "lyrics_owner_id": 7,
+       "lyrics_state": "complete",
+       "path": "/Lil-b-exhibit-based-lyrics",
+       "pyongs_count": 7,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6f6f7e8f72496aa2032d61a2de46649f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6f6f7e8f72496aa2032d61a2de46649f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 6697
+       },
+       "title": "Exhibit Based",
+       "title_with_featured": "Exhibit Based",
+       "url": "https://genius.com/Lil-b-exhibit-based-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/455",
+        "header_image_url": "https://images.genius.com/3f12863f79305d4dc1e7a17210cf195c.600x452x28.gif",
+        "id": 455,
+        "image_url": "https://images.genius.com/445dc42fcd44fccf066e2d4d22f2cc84.480x480x46.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil B",
+        "url": "https://genius.com/artists/Lil-b"
+       }
+      },
+      {
+       "annotation_count": 18,
+       "api_path": "/songs/71778",
+       "full_title": "Where You Come From? by\u00a0Evidence (Ft.\u00a0Lil'\u00a0Fame, Rakaa\u00a0Iriscience & Termanology)",
+       "header_image_thumbnail_url": "https://images.genius.com/c9d979659326bdf9f4c55c82deb6e2ab.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9d979659326bdf9f4c55c82deb6e2ab.320x320x1.jpg",
+       "id": 71778,
+       "lyrics_owner_id": 89158,
+       "lyrics_state": "complete",
+       "path": "/Evidence-where-you-come-from-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9d979659326bdf9f4c55c82deb6e2ab.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9d979659326bdf9f4c55c82deb6e2ab.320x320x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Where You Come From?",
+       "title_with_featured": "Where You Come From? (Ft.\u00a0Lil'\u00a0Fame, Rakaa\u00a0Iriscience & Termanology)",
+       "url": "https://genius.com/Evidence-where-you-come-from-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1022",
+        "header_image_url": "https://images.genius.com/ba8626eeabd3a7b9fd8231f56a0dd5c6.1000x1000x1.jpg",
+        "id": 1022,
+        "image_url": "https://images.genius.com/8b0813b78678f67d516ad10f07af5389.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Evidence",
+        "url": "https://genius.com/artists/Evidence",
+        "iq": 242
+       }
+      },
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/80909",
+       "full_title": "Exhibit F by\u00a0Fabolous",
+       "header_image_thumbnail_url": "https://images.genius.com/3e48ad4f20cefa049457664b2bdd197d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3e48ad4f20cefa049457664b2bdd197d.320x320x1.jpg",
+       "id": 80909,
+       "lyrics_owner_id": 117727,
+       "lyrics_state": "complete",
+       "path": "/Fabolous-exhibit-f-lyrics",
+       "pyongs_count": 3,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3e48ad4f20cefa049457664b2bdd197d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3e48ad4f20cefa049457664b2bdd197d.320x320x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 7802
+       },
+       "title": "Exhibit F",
+       "title_with_featured": "Exhibit F",
+       "url": "https://genius.com/Fabolous-exhibit-f-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/3",
+        "header_image_url": "https://images.genius.com/2f9f91ffc613dbf0e752798a56868c89.625x431x1.jpg",
+        "id": 3,
+        "image_url": "https://images.genius.com/8e2843dcf4a386d5de04cd6e203899e1.391x391x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Fabolous",
+        "url": "https://genius.com/artists/Fabolous",
+        "iq": 9038
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/2377679",
+       "full_title": "(?) by\u00a0Childish\u00a0Gambino",
+       "header_image_thumbnail_url": "https://images.genius.com/b552e3a18b086ceebe63ab6f586b6a21.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b552e3a18b086ceebe63ab6f586b6a21.320x320x1.jpg",
+       "id": 2377679,
+       "lyrics_owner_id": 1138095,
+       "lyrics_state": "complete",
+       "path": "/Childish-gambino--lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b552e3a18b086ceebe63ab6f586b6a21.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b552e3a18b086ceebe63ab6f586b6a21.320x320x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 6540
+       },
+       "title": "(?)",
+       "title_with_featured": "(?)",
+       "url": "https://genius.com/Childish-gambino--lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1745",
+        "header_image_url": "https://images.genius.com/bdf541eae2bc0d18960e6d156e7533c6.550x363x1.jpg",
+        "id": 1745,
+        "image_url": "https://images.genius.com/90d733d87dcdbe5bb5f89062e6fb381f.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Childish Gambino",
+        "url": "https://genius.com/artists/Childish-gambino",
+        "iq": 4554
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2468391",
+       "full_title": "Tabasco Flows by\u00a0Matt\u00a0Citron",
+       "header_image_thumbnail_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "header_image_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "id": 2468391,
+       "lyrics_owner_id": 3229679,
+       "lyrics_state": "complete",
+       "path": "/Matt-citron-tabasco-flows-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "song_art_image_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Tabasco Flows",
+       "title_with_featured": "Tabasco Flows",
+       "url": "https://genius.com/Matt-citron-tabasco-flows-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/665917",
+        "header_image_url": "https://images.genius.com/avatars/medium/1034c75159ca980bb5c1ea9bf4ec48f8",
+        "id": 665917,
+        "image_url": "https://images.genius.com/avatars/medium/1034c75159ca980bb5c1ea9bf4ec48f8",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Matt Citron",
+        "url": "https://genius.com/artists/Matt-citron",
+        "iq": 652
+       }
+      },
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/3223738",
+       "full_title": "Renaissance by\u00a0Anarky",
+       "header_image_thumbnail_url": "https://images.genius.com/3c7f46f4fd28eca135b56cf77dd6b590.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3c7f46f4fd28eca135b56cf77dd6b590.750x750x1.jpg",
+       "id": 3223738,
+       "lyrics_owner_id": 3774223,
+       "lyrics_state": "complete",
+       "path": "/Anarky-renaissance-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3c7f46f4fd28eca135b56cf77dd6b590.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3c7f46f4fd28eca135b56cf77dd6b590.750x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 15,
+        "hot": false
+       },
+       "title": "Renaissance",
+       "title_with_featured": "Renaissance",
+       "url": "https://genius.com/Anarky-renaissance-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1209280",
+        "header_image_url": "https://images.genius.com/a1f9e8251b3ff4fc6f9458869c9de490.750x1000x1.jpg",
+        "id": 1209280,
+        "image_url": "https://images.genius.com/3c7f46f4fd28eca135b56cf77dd6b590.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Anarky",
+        "url": "https://genius.com/artists/Anarky"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4028896",
+       "full_title": "Mohamed Said (Exhibit K) by\u00a0Humble\u00a0The Poet (Ft.\u00a0Selena\u00a0Dhillon & Sikh\u00a0Knowledge)",
+       "header_image_thumbnail_url": "https://images.genius.com/c5ffb2e2c4060f6cf82e9ecb733c05e8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c5ffb2e2c4060f6cf82e9ecb733c05e8.995x995x1.jpg",
+       "id": 4028896,
+       "lyrics_owner_id": 2992857,
+       "lyrics_state": "complete",
+       "path": "/Humble-the-poet-mohamed-said-exhibit-k-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c5ffb2e2c4060f6cf82e9ecb733c05e8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c5ffb2e2c4060f6cf82e9ecb733c05e8.995x995x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mohamed Said (Exhibit K)",
+       "title_with_featured": "Mohamed Said (Exhibit K) (Ft.\u00a0Selena\u00a0Dhillon & Sikh\u00a0Knowledge)",
+       "url": "https://genius.com/Humble-the-poet-mohamed-said-exhibit-k-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/27957",
+        "header_image_url": "https://images.genius.com/b9e5e34b56761db07a01fa3e272ece04.1000x1000x1.jpg",
+        "id": 27957,
+        "image_url": "https://images.genius.com/333c06f8187b5115cc62981cb6da92ad.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Humble The Poet",
+        "url": "https://genius.com/artists/Humble-the-poet",
+        "iq": 587
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5419172",
+       "full_title": "QUARANTINE by\u00a0Kill\u00a0Bill: The Rapper",
+       "header_image_thumbnail_url": "https://images.genius.com/f6e5e7011fb299408f92559423b81969.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/f6e5e7011fb299408f92559423b81969.1000x563x1.jpg",
+       "id": 5419172,
+       "lyrics_owner_id": 5298830,
+       "lyrics_state": "complete",
+       "path": "/Kill-bill-the-rapper-quarantine-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f6e5e7011fb299408f92559423b81969.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f6e5e7011fb299408f92559423b81969.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "QUARANTINE",
+       "title_with_featured": "QUARANTINE",
+       "url": "https://genius.com/Kill-bill-the-rapper-quarantine-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/201919",
+        "header_image_url": "https://images.genius.com/a349d95b87e3a92440a75a1521b6902f.1000x1000x1.png",
+        "id": 201919,
+        "image_url": "https://images.genius.com/83fe3eaec1dca9e3f7e4e94ac5550b69.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Kill Bill: The Rapper",
+        "url": "https://genius.com/artists/Kill-bill-the-rapper",
+        "iq": 1909
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/3544",
+       "full_title": "Exhibit 6 by\u00a0Lil\u00a0B",
+       "header_image_thumbnail_url": "https://images.genius.com/3423f0fa3f5a6c8e53e7b82d4bba3017.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3423f0fa3f5a6c8e53e7b82d4bba3017.500x500x1.jpg",
+       "id": 3544,
+       "lyrics_owner_id": 7,
+       "lyrics_state": "complete",
+       "path": "/Lil-b-exhibit-6-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3423f0fa3f5a6c8e53e7b82d4bba3017.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3423f0fa3f5a6c8e53e7b82d4bba3017.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit 6",
+       "title_with_featured": "Exhibit 6",
+       "url": "https://genius.com/Lil-b-exhibit-6-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/455",
+        "header_image_url": "https://images.genius.com/3f12863f79305d4dc1e7a17210cf195c.600x452x28.gif",
+        "id": 455,
+        "image_url": "https://images.genius.com/445dc42fcd44fccf066e2d4d22f2cc84.480x480x46.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil B",
+        "url": "https://genius.com/artists/Lil-b"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/4539",
+       "full_title": "Exhibit C by\u00a0King\u00a0Los",
+       "header_image_thumbnail_url": "https://images.genius.com/063677e3f883a417c8b506294dd5c56c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/063677e3f883a417c8b506294dd5c56c.500x500x1.jpg",
+       "id": 4539,
+       "lyrics_owner_id": 3928,
+       "lyrics_state": "complete",
+       "path": "/King-los-exhibit-c-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/063677e3f883a417c8b506294dd5c56c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/063677e3f883a417c8b506294dd5c56c.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Exhibit C",
+       "title_with_featured": "Exhibit C",
+       "url": "https://genius.com/King-los-exhibit-c-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/640",
+        "header_image_url": "https://images.genius.com/c37e9af062582e2d45410fa03f82ff3d.1000x563x1.jpg",
+        "id": 640,
+        "image_url": "https://images.genius.com/c0daf469211d08fdaecc1b33b17526d6.309x309x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "King Los",
+        "url": "https://genius.com/artists/King-los"
+       }
+      },
+      {
+       "annotation_count": 30,
+       "api_path": "/songs/54276",
+       "full_title": "400 Bars (The Skeemix) by\u00a0The\u00a0Game",
+       "header_image_thumbnail_url": "https://images.genius.com/c29ad051157cf4c1ccc0b446193e685b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c29ad051157cf4c1ccc0b446193e685b.1000x1000x1.jpg",
+       "id": 54276,
+       "lyrics_owner_id": 1396,
+       "lyrics_state": "complete",
+       "path": "/The-game-400-bars-the-skeemix-lyrics",
+       "pyongs_count": 5,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c29ad051157cf4c1ccc0b446193e685b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c29ad051157cf4c1ccc0b446193e685b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 97328
+       },
+       "title": "400 Bars (The Skeemix)",
+       "title_with_featured": "400 Bars (The Skeemix)",
+       "url": "https://genius.com/The-game-400-bars-the-skeemix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/42",
+        "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+        "id": 42,
+        "image_url": "https://images.genius.com/7c2a172f4b778fcf602020d11f64a634.800x800x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "The Game",
+        "url": "https://genius.com/artists/The-game",
+        "iq": 1154
+       }
+      },
+      {
+       "annotation_count": 18,
+       "api_path": "/songs/83236",
+       "full_title": "Exhibit K (Freestyle) by\u00a0Big\u00a0K.R.I.T.",
+       "header_image_thumbnail_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.750x750x1.jpg",
+       "id": 83236,
+       "lyrics_owner_id": 74321,
+       "lyrics_state": "complete",
+       "path": "/Big-krit-exhibit-k-freestyle-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.750x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Exhibit K (Freestyle)",
+       "title_with_featured": "Exhibit K (Freestyle)",
+       "url": "https://genius.com/Big-krit-exhibit-k-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/491",
+        "header_image_url": "https://images.genius.com/c2b3ccc3cb38302640b35bf5fc795c69.564x296x1.jpg",
+        "id": 491,
+        "image_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.750x750x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Big K.R.I.T.",
+        "url": "https://genius.com/artists/Big-krit",
+        "iq": 6131
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/193581",
+       "full_title": "Exhibit C by\u00a0Cassidy (Ft.\u00a0J.A.G.\u00a0(Homies 4 Life))",
+       "header_image_thumbnail_url": "https://images.genius.com/13e3a023bbdaad05c4921b8d68534282.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/13e3a023bbdaad05c4921b8d68534282.500x500x1.jpg",
+       "id": 193581,
+       "lyrics_owner_id": 257393,
+       "lyrics_state": "complete",
+       "path": "/Cassidy-exhibit-c-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/13e3a023bbdaad05c4921b8d68534282.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/13e3a023bbdaad05c4921b8d68534282.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit C",
+       "title_with_featured": "Exhibit C (Ft.\u00a0J.A.G.\u00a0(Homies 4 Life))",
+       "url": "https://genius.com/Cassidy-exhibit-c-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/230",
+        "header_image_url": "https://images.genius.com/2d7259d84a0279a903fa5720621bc3ad.576x576x1.png",
+        "id": 230,
+        "image_url": "https://images.genius.com/2d7259d84a0279a903fa5720621bc3ad.576x576x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cassidy",
+        "url": "https://genius.com/artists/Cassidy"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2468391",
+       "full_title": "Tabasco Flows by\u00a0Matt\u00a0Citron",
+       "header_image_thumbnail_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "header_image_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "id": 2468391,
+       "lyrics_owner_id": 3229679,
+       "lyrics_state": "complete",
+       "path": "/Matt-citron-tabasco-flows-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "song_art_image_url": "https://images.genius.com/48f405bbdaa2967e754efef42c0a99be.160x160x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Tabasco Flows",
+       "title_with_featured": "Tabasco Flows",
+       "url": "https://genius.com/Matt-citron-tabasco-flows-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/665917",
+        "header_image_url": "https://images.genius.com/avatars/medium/1034c75159ca980bb5c1ea9bf4ec48f8",
+        "id": 665917,
+        "image_url": "https://images.genius.com/avatars/medium/1034c75159ca980bb5c1ea9bf4ec48f8",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Matt Citron",
+        "url": "https://genius.com/artists/Matt-citron",
+        "iq": 652
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3444441",
+       "full_title": "Exhibit C by\u00a0Charlie\u00a0Ray",
+       "header_image_thumbnail_url": "https://images.genius.com/d5a8e25087b33df7b5d7b9fb90c105ad.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d5a8e25087b33df7b5d7b9fb90c105ad.1000x1000x1.jpg",
+       "id": 3444441,
+       "lyrics_owner_id": 3654765,
+       "lyrics_state": "incomplete",
+       "path": "/Charlie-ray-exhibit-c-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d5a8e25087b33df7b5d7b9fb90c105ad.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d5a8e25087b33df7b5d7b9fb90c105ad.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit C",
+       "title_with_featured": "Exhibit C",
+       "url": "https://genius.com/Charlie-ray-exhibit-c-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/211654",
+        "header_image_url": "https://images.genius.com/76d130c9068ec52e9dad2a12d16d7561.500x500x1.png",
+        "id": 211654,
+        "image_url": "https://images.genius.com/1fec1da470aefdeaf73e0ab1a77ab19b.738x738x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Charlie Ray",
+        "url": "https://genius.com/artists/Charlie-ray"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3477360",
+       "full_title": "Exhibit AZ by\u00a0AZ",
+       "header_image_thumbnail_url": "https://images.genius.com/2630bc2e689e1cbcb816dd399513d7e4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2630bc2e689e1cbcb816dd399513d7e4.500x500x1.jpg",
+       "id": 3477360,
+       "lyrics_owner_id": 1672103,
+       "lyrics_state": "complete",
+       "path": "/Az-exhibit-az-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2630bc2e689e1cbcb816dd399513d7e4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2630bc2e689e1cbcb816dd399513d7e4.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit AZ",
+       "title_with_featured": "Exhibit AZ",
+       "url": "https://genius.com/Az-exhibit-az-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/81",
+        "header_image_url": "https://images.genius.com/e191b29c111e03e5b1140541b9efc58b.1000x406x1.jpg",
+        "id": 81,
+        "image_url": "https://images.genius.com/a852b5796bc9c7df869e7e1d67580f7d.421x421x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "AZ",
+        "url": "https://genius.com/artists/Az",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4526459",
+       "full_title": "I'm Not Done Yet (Exhibit C) by\u00a0Bash\u00a0(The Outcast)",
+       "header_image_thumbnail_url": "https://images.genius.com/3c3522df426868b4637fe3e651bdf8b3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/3c3522df426868b4637fe3e651bdf8b3.500x500x1.png",
+       "id": 4526459,
+       "lyrics_owner_id": 6416712,
+       "lyrics_state": "complete",
+       "path": "/Bash-the-outcast-im-not-done-yet-exhibit-c-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3c3522df426868b4637fe3e651bdf8b3.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/3c3522df426868b4637fe3e651bdf8b3.500x500x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "I\u2019m Not Done Yet (Exhibit C)",
+       "title_with_featured": "I'm Not Done Yet (Exhibit C)",
+       "url": "https://genius.com/Bash-the-outcast-im-not-done-yet-exhibit-c-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1604389",
+        "header_image_url": "https://images.genius.com/b93aa6a5fd71b6b390911e63b6d5b445.500x500x1.png",
+        "id": 1604389,
+        "image_url": "https://images.genius.com/2774be2787524729193f13de1ea5e9da.585x585x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bash (The Outcast)",
+        "url": "https://genius.com/artists/Bash-the-outcast"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1954",
+     "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "id": 1954,
+     "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Just Blaze",
+     "url": "https://genius.com/artists/Just-blaze",
+     "iq": 662
+    },
+    {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   ],
+   "lyrics": "[Produced by Just Blaze]\n\n[Intro: Just Blaze]\nHey!\nIt's coming\nLadies and gentlemen; this time around\nThe revolution will not be televised\nWoo! As we proceed!\nTo give you what you need!\n'09, mother\u2014!\nGet live, mother\u2014!\nLadies and gentlemen of the court\nIn the hearing against The State of Hip-Hop vs. Jay Electronica\nI present: Exhibit C\n\n[Verse 1: Jay Electronica & Just Blaze]\nWhen I was sleepin' on the train\nSleepin' on Meserole Ave out in the rain\nWithout even a single slice of pizza to my name\nToo proud to beg for change, mastering the pain\nWhen New York niggas was calling southern rappers lame\nBut then jacking our slang (Oh!)\nI used to get dizzy spells, hear a little ring\nThe voice of an angel telling me my name\nTelling me that one day I'ma be a great mane\nTransforming with the Megatron Don, spittin' out flames (Oh!)\nEating wack rappers alive, shittin' out chains (Woo!)\nI ain't believe it then; nigga, I was homeless (Uh huh)\nFightin', shootin' dice, smokin' weed on the corners\nTrying to find the meaning of life in a Corona\n'Til the Five Percenters rolled up on a nigga and informed him:\n\"You either build or destroy, where you come from?\"\n\"The Magnolia projects in the 3rd Ward slum\"\n\"Hmm, it's quite amazing that you rhyme how you do\nAnd that you shine like you grew up in a shrine in Peru\" (Ooh!)\nQuestion Fourteen, Muslim Lesson Two:\nDip-dive-uh, civilize a eighty-five-uh\nI make the devil hit his knees and say the \"Our Father\"\nAbracadabra, you rocking with the true and living\nShout out to Lights Out, Joseph I, Chewy Bivens\nShout out to Baltimore, Baton Rouge, my crew in Richmond\nWhile y'all debated who the truth was like Jews and Christians\nI was on Cecil B., Broad Street, Master\nNorth Philly, South Philly, 23rd, Tasker\nSix Mile, Seven Mile, Hartwell, Gratiot (Oh!)\nWhere niggas really would pack a U-Haul truck up\nPut the high beams on, drive up on the curb\nAt a barbecue and hop up out the back like, \"What's up?\" (Buh!)\nKill a nigga, rob a nigga, take a nigga, bust up\nThat's why when you talk the tough talk, I never feel you\nYou sound real good and you play the part well\nBut the energy you givin' off is so unfamiliar\nI don't feel ya (We need somethin' realer! Ooh!)\n\n[Verse 2: Jay Electronica & Just Blaze]\nNas hit me up on the phone, said \"What you waitin' on?\"\nTip hit me up with a tweet, said, \"What you waitin' on?\"\nDiddy send a text every hour on the dot saying\n\"When you gon drop that verse? Nigga, you taking long\"\nSo now I'm back spittin' that heat, could pass a polygraph\nThat Reverend Run rockin' Adidas out on Hollis Ave\nThat FOI, Marcus Garvey, Nikky Tesla\nI shock you like an eel, electric feel, Jay Electra\nOh my God! Keep going!\n\n[Verse 3: Jay Electronica & Just Blaze]\nThey call me Jay Electronica\u2014fuck that\nCall me Jay Elec-Hanukkah, Jay Elec-Yarmulke\nJay Elect-Ramadan, Muhammad as-salaam-alaikum\nRasoulAllah Subhanahu wa ta'ala through your monitor (Ooh!)\nMy Uzi still weigh a ton; check the barometer\nI'm hotter than the motherfucking sun; check the thermometer\nI'm bringing ancient mathematics back to modern man\nMy mama told me, \"Never throw a stone and hide your hand\"\nI got a lot of family, you got a lot of fans\nThat's why the people got my back like the Verizon man\nI play the back and fade to black, and then devise a plan\nOut in London, smoking, vibing while I ride the tram\nGiving out that raw food to lions disguised as lambs\nAnd\u2014by the time they get they seats hot\nAnd deploy all they henchmen to come at me from the treetops\nI'm chillin' out at Tweetstock, building by the millions\nMy light is brilliant\n\n[Outro: Just Blaze]\nWoooo!\nI rest my case\n'09, Act 3\nFirst chapter of the end\nThe last chapter of a new beginning\nIf it's so\nThe things we do without even trying...\nBe better than a lot of y'all records, don't get mad\nMorning after, world premiere\nMe!\nFor real, though?\nI ain't even gon' say nothing\nMatter of fact; I ain\u2019t saying\u2014\nI don't even know why I'm sayin\u2019 this\nJay, you should get Puff to do this over\nWe moving out, onto the next record\nAnd, um, I'ma let this just ride\nRide, ride, ride\nHahaha"
+  },
+  {
+   "annotation_count": 38,
+   "api_path": "/songs/262",
+   "apple_music_id": "1401054631",
+   "apple_music_player_url": "https://genius.com/songs/262/apple_music_player",
+   "description": {
+    "plain": "\u201cExhibit A\u201d is the breakthrough track from New Orleans-via-Brooklyn MC Jay Electronica, also Erykah Badu\u2019s baby daddy.\n\nThe beat is a Just Blaze production, peppered with samples from Willy Wonka and the Chocolate Factory\n\nJust Blaze said in an interview that he and Jay recorded the song in an attic in Detroit."
+   },
+   "embed_content": "<div id='rg_embed_link_262' class='rg_embed_link' data-song-id='262'>Read <a href='https://genius.com/Jay-electronica-exhibit-a-transformations-lyrics'>\u201cExhibit A (Transformations)\u201d by Jay\u00a0Electronica</a> on Genius</div> <script crossorigin src='//genius.com/songs/262/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Exhibit A (Transformations) by\u00a0Jay\u00a0Electronica",
+   "header_image_thumbnail_url": "https://images.genius.com/c1a4755e85dd989299132528487b909a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c1a4755e85dd989299132528487b909a.550x550x1.jpg",
+   "id": 262,
+   "lyrics_owner_id": 23,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jay-electronica-exhibit-a-transformations-lyrics",
+   "pyongs_count": 28,
+   "recording_location": null,
+   "release_date": "2009-06-23",
+   "release_date_for_display": "June 23, 2009",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c1a4755e85dd989299132528487b909a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c1a4755e85dd989299132528487b909a.550x550x1.jpg",
+   "stats": {
+    "accepted_annotations": 33,
+    "contributors": 99,
+    "iq_earners": 99,
+    "transcribers": 0,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 162419
+   },
+   "title": "Exhibit A (Transformations)",
+   "title_with_featured": "Exhibit A (Transformations)",
+   "url": "https://genius.com/Jay-electronica-exhibit-a-transformations-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/75245",
+    "cover_art_url": "https://images.genius.com/a9d4b116d6fa20a4d17b3d4f1bb908f4.500x500x1.jpg",
+    "full_title": "Victory by Jay Electronica",
+    "id": 75245,
+    "name": "Victory",
+    "url": "https://genius.com/albums/Jay-electronica/Victory",
+    "artist": {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1136272",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 1136272,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Decon Records",
+       "url": "https://genius.com/artists/Decon-records"
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1954",
+       "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "id": 1954,
+       "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Just Blaze",
+       "url": "https://genius.com/artists/Just-blaze",
+       "iq": 662
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1954",
+       "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "id": 1954,
+       "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Just Blaze",
+       "url": "https://genius.com/artists/Just-blaze",
+       "iq": 662
+      },
+      {
+       "api_path": "/artists/2101076",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 2101076,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Dogon Society",
+       "url": "https://genius.com/artists/The-dogon-society"
+      },
+      {
+       "api_path": "/artists/395998",
+       "header_image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "id": 395998,
+       "image_url": "https://images.genius.com/04c46b461efff1ad65a3891019f3d68f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mass Appeal",
+       "url": "https://genius.com/artists/Mass-appeal"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 23,
+    "annotator_login": "diplopotamus",
+    "api_path": "/referents/3490003",
+    "classification": "accepted",
+    "fragment": "Exhibit A (Transformations)",
+    "id": 3490003,
+    "is_description": true,
+    "path": "/3490003/Jay-electronica-exhibit-a-transformations/Exhibit-a-transformations",
+    "range": {
+     "content": "Exhibit A (Transformations)"
+    },
+    "song_id": 262,
+    "url": "https://genius.com/3490003/Jay-electronica-exhibit-a-transformations/Exhibit-a-transformations",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/262",
+     "client_timestamps": {
+      "updated_by_human_at": 1584136248,
+      "lyrics_updated_at": 1584136248
+     },
+     "context": "Jay Electronica",
+     "id": 262,
+     "image_url": "https://images.genius.com/c1a4755e85dd989299132528487b909a.550x550x1.jpg",
+     "link_title": "Exhibit A (Transformations) by\u00a0Jay\u00a0Electronica",
+     "title": "Exhibit A (Transformations)",
+     "type": "Song",
+     "url": "https://genius.com/Jay-electronica-exhibit-a-transformations-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3490003",
+      "body": {
+       "plain": "\u201cExhibit A\u201d is the breakthrough track from New Orleans-via-Brooklyn MC Jay Electronica, also Erykah Badu\u2019s baby daddy.\n\nThe beat is a Just Blaze production, peppered with samples from Willy Wonka and the Chocolate Factory\n\nJust Blaze said in an interview that he and Jay recorded the song in an attic in Detroit."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3490003,
+      "pinned": false,
+      "share_url": "https://genius.com/3490003",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3490003/Jay-electronica-exhibit-a-transformations/Exhibit-a-transformations",
+      "verified": false,
+      "votes_total": 39,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/23",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b765d67ee09a818865f0ea8ecc83be56",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b765d67ee09a818865f0ea8ecc83be56",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b765d67ee09a818865f0ea8ecc83be56",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b765d67ee09a818865f0ea8ecc83be56",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V01R5VEVSqipsKRPzwhX_040313021631_pea-det.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 23,
+         "iq": 6674,
+         "login": "diplopotamus",
+         "name": "diplopotamus",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/diplopotamus",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0BNpu0iqDolVZVFTqGMhAt",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0BNpu0iqDolVZVFTqGMhAt"
+    },
+    {
+     "attribution": "trashymondaycollective",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/trashymondaycollective/jay-electronica-exhibit-a"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=eSxLzrXurJI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/198",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "id": 198,
+    "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jay Electronica",
+    "url": "https://genius.com/artists/Jay-electronica",
+    "iq": 115
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1954",
+     "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "id": 1954,
+     "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Just Blaze",
+     "url": "https://genius.com/artists/Just-blaze",
+     "iq": 662
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/73458",
+       "full_title": "Mixed Feelings by\u00a0Logic",
+       "header_image_thumbnail_url": "https://images.genius.com/6118bfdbbde22320e3c6bc130e1772d3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6118bfdbbde22320e3c6bc130e1772d3.1000x1000x1.jpg",
+       "id": 73458,
+       "lyrics_owner_id": 100403,
+       "lyrics_state": "complete",
+       "path": "/Logic-mixed-feelings-lyrics",
+       "pyongs_count": 18,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6118bfdbbde22320e3c6bc130e1772d3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6118bfdbbde22320e3c6bc130e1772d3.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 44416
+       },
+       "title": "Mixed Feelings",
+       "title_with_featured": "Mixed Feelings",
+       "url": "https://genius.com/Logic-mixed-feelings-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/7922",
+        "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+        "id": 7922,
+        "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Logic",
+        "url": "https://genius.com/artists/Logic",
+        "iq": 86565
+       }
+      },
+      {
+       "annotation_count": 41,
+       "api_path": "/songs/98999",
+       "full_title": "Transformation by\u00a0Fabolous",
+       "header_image_thumbnail_url": "https://images.genius.com/82b1f5651f6eeea592ec747fc3987f89.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/82b1f5651f6eeea592ec747fc3987f89.968x968x1.jpg",
+       "id": 98999,
+       "lyrics_owner_id": 137171,
+       "lyrics_state": "complete",
+       "path": "/Fabolous-transformation-lyrics",
+       "pyongs_count": 5,
+       "song_art_image_thumbnail_url": "https://images.genius.com/82b1f5651f6eeea592ec747fc3987f89.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/82b1f5651f6eeea592ec747fc3987f89.968x968x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 121447
+       },
+       "title": "Transformation",
+       "title_with_featured": "Transformation",
+       "url": "https://genius.com/Fabolous-transformation-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/3",
+        "header_image_url": "https://images.genius.com/2f9f91ffc613dbf0e752798a56868c89.625x431x1.jpg",
+        "id": 3,
+        "image_url": "https://images.genius.com/8e2843dcf4a386d5de04cd6e203899e1.391x391x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Fabolous",
+        "url": "https://genius.com/artists/Fabolous",
+        "iq": 9038
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3298087",
+       "full_title": "Exhibit B by\u00a0Balance\u00a0(Rapper) (Ft.\u00a0Samm\u00a0(Coloquinte))",
+       "header_image_thumbnail_url": "https://images.genius.com/22793e0cc30f25cb6576f7c80f24eec3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/22793e0cc30f25cb6576f7c80f24eec3.500x500x1.jpg",
+       "id": 3298087,
+       "lyrics_owner_id": 21564,
+       "lyrics_state": "incomplete",
+       "path": "/Balance-rapper-exhibit-b-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/22793e0cc30f25cb6576f7c80f24eec3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/22793e0cc30f25cb6576f7c80f24eec3.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit B",
+       "title_with_featured": "Exhibit B (Ft.\u00a0Samm\u00a0(Coloquinte))",
+       "url": "https://genius.com/Balance-rapper-exhibit-b-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2219008",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+        "id": 2219008,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Balance (Rapper)",
+        "url": "https://genius.com/artists/Balance-rapper"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3527607",
+       "full_title": "The Room Of Everything by\u00a0Lil\u00a0B",
+       "header_image_thumbnail_url": "https://images.genius.com/3cbd6455e3d08688150ba5a33f5468a1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3cbd6455e3d08688150ba5a33f5468a1.500x500x1.jpg",
+       "id": 3527607,
+       "lyrics_owner_id": 3341186,
+       "lyrics_state": "complete",
+       "path": "/Lil-b-the-room-of-everything-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3cbd6455e3d08688150ba5a33f5468a1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3cbd6455e3d08688150ba5a33f5468a1.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Room Of Everything",
+       "title_with_featured": "The Room Of Everything",
+       "url": "https://genius.com/Lil-b-the-room-of-everything-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/455",
+        "header_image_url": "https://images.genius.com/3f12863f79305d4dc1e7a17210cf195c.600x452x28.gif",
+        "id": 455,
+        "image_url": "https://images.genius.com/445dc42fcd44fccf066e2d4d22f2cc84.480x480x46.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil B",
+        "url": "https://genius.com/artists/Lil-b"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/63523",
+       "full_title": "Exhibit A by\u00a0Mike\u00a0G (Ft.\u00a0Lavi$h)",
+       "header_image_thumbnail_url": "https://images.genius.com/42776b4439946d0f4e9b1e7918df5bfa.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/42776b4439946d0f4e9b1e7918df5bfa.500x500x1.jpg",
+       "id": 63523,
+       "lyrics_owner_id": 21342,
+       "lyrics_state": "complete",
+       "path": "/Mike-g-exhibit-a-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/42776b4439946d0f4e9b1e7918df5bfa.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/42776b4439946d0f4e9b1e7918df5bfa.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Exhibit A",
+       "title_with_featured": "Exhibit A (Ft.\u00a0Lavi$h)",
+       "url": "https://genius.com/Mike-g-exhibit-a-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2002",
+        "header_image_url": "https://images.genius.com/20521685b39dfa1a45e469906e8ff1b8.1000x1000x1.png",
+        "id": 2002,
+        "image_url": "https://images.genius.com/3e8af67b9e22e8237cbf8c362a731992.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Mike G",
+        "url": "https://genius.com/artists/Mike-g",
+        "iq": 9340
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1954",
+     "header_image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "id": 1954,
+     "image_url": "https://images.genius.com/5cca6bc6b1297475c8bd2a4df6411c97.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Just Blaze",
+     "url": "https://genius.com/artists/Just-blaze",
+     "iq": 662
+    },
+    {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   ],
+   "lyrics": "[Intro]\nAnd his own story was as curious as his narrative\nThe tale of his life is the tale of a writer of incredible vision\nAn astute analyst and pundit\nA lyricist compassionate and callous\nA reckless hedonist and disaffected malcontent\n\n[Verse 1]\nI spit that, Wonderama shit, me and my conglomerates\nShall remain anonymous, caught up in the finest shit\nGet that type of media coverage Obama get\nSpit that Kurt Vonnegut\nThat blow your brain, Kurt Cobain, that Nirvana shit\nWho gon' bring the game back?\nWho gon' spit that Ramo on the train tracks?\nThat gold rope, that five-finger ring rap, running with my same pack\nYou can find the Christ where the lepers and the lames at\nLife is like a dice game\nOne roll could land you in jail or cutting cake, blowing kisses in the rice rain\nNice whip, nice chain, a closet of skulls\nThe stench is like slave blood at Providence Hall, yeah\nThey built my city on top of a grave\nNigga die, a nigga get high and watch the parade\nBack in the early '90s, where they at, where they at\nGet the gat, get the gat was a popular phrase\nBally Animals and Rugbys was a popular craze\nThis the vivid memoirs of a obnoxious slave\nI pave ways like Nat and Harriet\nI blast on Judas Iscariot and peel off in the chariot, uhh\nI'm sitting pretty, spitting flames, gripping grains\nAin't a damn thing changed\n\n[Interlude: Willy Wonka & Charley Bucket]\nHow does he do it?\nMy dear boy, do you ask a fish how it swims? (No)\nOr a bird how it flies? (No)\nNo siree, you don't! They do it because they were born to do it\nWhat you are witnessing dear friends\nIs the most enormous miracle of the machine age\nBehold! A confectionery behemoth!\n\n[Verse 2]\nThey say Candyman, Candyman, spit me a dream\nBlow a chunk of the levee out and spit me a stream\nKnock a man's house down and build a casin'\nA two thousand dollar government check from FEM'\nI swam down shit's creek and came up clean\nWith a new lease on life like Andy Dufresne\nIt's the most poetical, Nat King unforgettable\nClarence 13X Allah's rhapsody from Bellevue\nI'm splitting atoms, spitting flames\nBringing change, things will never be the same\nI got the rap game singing At Last like Etta James\nLames get they plane shot down like John McCain\nIt's a dream, it's a dream\nThe flow is elegant like Miss Coretta Scott King\nA lot of kings seen death and turn queen\nCrack they twenty-four-inch rims in the ravine\nRespect the architect, never test the Elohim\nGoodnight, this is Jay Elec, live from New Orleans\n\n[Outro: Napoleon Hill]\nMy journey has brought me to an understanding\nOf the divine forces which we have all been bestowed\nIt was in this search that I came upon a revelation\nWhich has called me to guide millions of people towards their righteous destiny"
+  },
+  {
+   "annotation_count": 23,
+   "api_path": "/songs/380799",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/380799/apple_music_player",
+   "description": {
+    "plain": "Aside from his guest verses on Big Sean\u2019s \u201cControl\u201d and Mac Miller\u2019s \u201cSuplexes Inside of Complexes and Duplexes,\u201d Jay Electronica has kept a low profile since signing to Jay Z\u2019s Roc Nation in 2010. But on March 15, 2014, the New Orleans rapper surprised his fans by dropping \u201cBetter in Tune with the Infinite\u201d featuring LaTonya Givens. He was prompted to release the song at the request of a fan on Twitter.\n\n\u201cYou know man, I\u2019ve had such a beautiful time among the ppl at \u202a#\u200esxsw\u202c that it\u2019s the least I can do. thanks for the suggestion,\u201d he responded.\n\nInteresting to note about the production or the whole song itself is that this is one of the songs titled on Act II: Patents of Nobility (The Turn), a tracklist that was released in 2012, leaving people guessing that it was fake. This implies that the tracklist might be real and not fiction.\n\n\n\nWhen viewed in iTunes, the download of the song is indeed labeled as Act II: Patents of Nobility (The Turn). It also lists \u201cJAY ELECTRONICA & JAY-Z\u201d as the composer of the track.\n\nThis is track eight on that supposed tracklist, which represents infinity in most symbolism.\n\nFurther more, in supreme mathematics of the Five Percenters Nation (which Jay is well versed in) describes the number eight to build or destroy, for building is to elevate the lives of others and to destroy is to fill one with negativity. Easy to see which option he chose."
+   },
+   "embed_content": "<div id='rg_embed_link_380799' class='rg_embed_link' data-song-id='380799'>Read <a href='https://genius.com/Jay-electronica-better-in-tune-w-the-infinite-lyrics'>\u201c\u00adbetter in tune w the infinite\u201d by Jay\u00a0Electronica</a> on Genius</div> <script crossorigin src='//genius.com/songs/380799/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "\u00adbetter in tune w the infinite by\u00a0Jay\u00a0Electronica (Ft.\u00a0LaTonya\u00a0Givens)",
+   "header_image_thumbnail_url": "https://images.genius.com/c76982a095a3cd3d304bfaadd6aa5ce1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c76982a095a3cd3d304bfaadd6aa5ce1.500x500x1.jpg",
+   "id": 380799,
+   "lyrics_owner_id": 23475,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jay-electronica-better-in-tune-w-the-infinite-lyrics",
+   "pyongs_count": 88,
+   "recording_location": null,
+   "release_date": "2014-03-15",
+   "release_date_for_display": "March 15, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c76982a095a3cd3d304bfaadd6aa5ce1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c76982a095a3cd3d304bfaadd6aa5ce1.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 22,
+    "contributors": 71,
+    "iq_earners": 70,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 139513
+   },
+   "title": "\u00adbetter in tune w the infinite",
+   "title_with_featured": "\u00adbetter in tune w the infinite (Ft.\u00a0LaTonya\u00a0Givens)",
+   "url": "https://genius.com/Jay-electronica-better-in-tune-w-the-infinite-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/19618",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1588262610",
+    "full_title": "Act II by Jay Electronica",
+    "id": 19618,
+    "name": "Act II",
+    "url": "https://genius.com/albums/Jay-electronica/Act-ii",
+    "artist": {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Cover Photo",
+     "artists": [
+      {
+       "api_path": "/artists/1406634",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "id": 1406634,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Close Encounter of the Third Kind (1977)",
+       "url": "https://genius.com/artists/Close-encounter-of-the-third-kind-1977"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 104344,
+    "annotator_login": "streetlights",
+    "api_path": "/referents/3632468",
+    "classification": "accepted",
+    "fragment": "\u00adbetter in tune w the infinite",
+    "id": 3632468,
+    "is_description": true,
+    "path": "/3632468/Jay-electronica-better-in-tune-w-the-infinite/Better-in-tune-w-the-infinite",
+    "range": {
+     "content": "\u00adbetter in tune w the infinite"
+    },
+    "song_id": 380799,
+    "url": "https://genius.com/3632468/Jay-electronica-better-in-tune-w-the-infinite/Better-in-tune-w-the-infinite",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/380799",
+     "client_timestamps": {
+      "updated_by_human_at": 1560441091,
+      "lyrics_updated_at": 1559556864
+     },
+     "context": "Jay Electronica",
+     "id": 380799,
+     "image_url": "https://images.genius.com/c76982a095a3cd3d304bfaadd6aa5ce1.500x500x1.jpg",
+     "link_title": "\u00adbetter in tune w the infinite by\u00a0Jay\u00a0Electronica (Ft.\u00a0LaTonya\u00a0Givens)",
+     "title": "\u00adbetter in tune w the infinite",
+     "type": "Song",
+     "url": "https://genius.com/Jay-electronica-better-in-tune-w-the-infinite-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3632468",
+      "body": {
+       "plain": "Aside from his guest verses on Big Sean\u2019s \u201cControl\u201d and Mac Miller\u2019s \u201cSuplexes Inside of Complexes and Duplexes,\u201d Jay Electronica has kept a low profile since signing to Jay Z\u2019s Roc Nation in 2010. But on March 15, 2014, the New Orleans rapper surprised his fans by dropping \u201cBetter in Tune with the Infinite\u201d featuring LaTonya Givens. He was prompted to release the song at the request of a fan on Twitter.\n\n\u201cYou know man, I\u2019ve had such a beautiful time among the ppl at \u202a#\u200esxsw\u202c that it\u2019s the least I can do. thanks for the suggestion,\u201d he responded.\n\nInteresting to note about the production or the whole song itself is that this is one of the songs titled on Act II: Patents of Nobility (The Turn), a tracklist that was released in 2012, leaving people guessing that it was fake. This implies that the tracklist might be real and not fiction.\n\n\n\nWhen viewed in iTunes, the download of the song is indeed labeled as Act II: Patents of Nobility (The Turn). It also lists \u201cJAY ELECTRONICA & JAY-Z\u201d as the composer of the track.\n\nThis is track eight on that supposed tracklist, which represents infinity in most symbolism.\n\nFurther more, in supreme mathematics of the Five Percenters Nation (which Jay is well versed in) describes the number eight to build or destroy, for building is to elevate the lives of others and to destroy is to fill one with negativity. Easy to see which option he chose."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3632468,
+      "pinned": false,
+      "share_url": "https://genius.com/3632468",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3632468/Jay-electronica-better-in-tune-w-the-infinite/Better-in-tune-w-the-infinite",
+      "verified": false,
+      "votes_total": 15,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.4909747292418773,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 2546024,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.332129963898917,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/41367",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/060ace240ade75834a9fd67b83a6870e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/060ace240ade75834a9fd67b83a6870e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/060ace240ade75834a9fd67b83a6870e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/060ace240ade75834a9fd67b83a6870e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fe5580edc248d07583f13a690b1cb11e.851x315x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 41367,
+         "iq": 7854,
+         "login": "Nkenge",
+         "name": "Nkenge 1x",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/Nkenge",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.11913357400722022,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7544",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/6a36ca6be14ea6e371b2ce41b68fb8fb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/6a36ca6be14ea6e371b2ce41b68fb8fb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/6a36ca6be14ea6e371b2ce41b68fb8fb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/6a36ca6be14ea6e371b2ce41b68fb8fb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/6a36ca6be14ea6e371b2ce41b68fb8fb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7544,
+         "iq": 23958,
+         "login": "J-Franks",
+         "name": "J-Franks",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/J-Franks",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.039711191335740074,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/131",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 131,
+         "iq": 89035,
+         "login": "superflyronald",
+         "name": "Superflyronald",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/superflyronald",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.010830324909747294,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4054704",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/e7ku1escgw9",
+         "human_readable_role_for_display": "Editor",
+         "id": 4054704,
+         "iq": 31867,
+         "login": "JohnCLE71",
+         "name": "JohnCLE71",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JohnCLE71",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.007220216606498195,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6086",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/6086_Macbeth.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288100_6086_Macbeth.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288100_6086_Macbeth.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288100_6086_Macbeth.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288100_6086_Macbeth.jpeg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6086,
+         "iq": 58932,
+         "login": "contactek",
+         "name": "contactek",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/contactek",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/10057",
+     "header_image_url": "https://images.genius.com/ab4b4e939d4ca6c1cb365a65c4620394.450x450x1.jpg",
+     "id": 10057,
+     "image_url": "https://images.genius.com/ab4b4e939d4ca6c1cb365a65c4620394.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LaTonya Givens",
+     "url": "https://genius.com/artists/Latonya-givens"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "cracktracks504",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/cracktracks504/jay-electronica-better-in-tune"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7zadIVD5Ba4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/198",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "id": 198,
+    "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jay Electronica",
+    "url": "https://genius.com/artists/Jay-electronica",
+    "iq": 115
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3623173",
+       "full_title": "\u7f8e\u8c8c\u306e\u9752\u7a7a (Bibo no Aozora) by\u00a0\u5742\u672c\u9f8d\u4e00\u00a0(Ryuichi Sakamoto)",
+       "header_image_thumbnail_url": "https://images.genius.com/f997a52a72f4d09ad939643e28b46114.300x301x1.jpg",
+       "header_image_url": "https://images.genius.com/f997a52a72f4d09ad939643e28b46114.598x600x1.jpg",
+       "id": 3623173,
+       "lyrics_owner_id": 282191,
+       "lyrics_state": "complete",
+       "path": "/Ryuichi-sakamoto-bibo-no-aozora-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f997a52a72f4d09ad939643e28b46114.300x301x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f997a52a72f4d09ad939643e28b46114.598x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "\u7f8e\u8c8c\u306e\u9752\u7a7a (Bibo no Aozora)",
+       "title_with_featured": "\u7f8e\u8c8c\u306e\u9752\u7a7a (Bibo no Aozora)",
+       "url": "https://genius.com/Ryuichi-sakamoto-bibo-no-aozora-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/119346",
+        "header_image_url": "https://images.genius.com/c623293f8160995dd80ebdbb8be12b9a.1000x731x1.jpg",
+        "id": 119346,
+        "image_url": "https://images.genius.com/d0eadddeeaf3c5f460373eb13a680575.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u5742\u672c\u9f8d\u4e00 (Ryuichi Sakamoto)",
+        "url": "https://genius.com/artists/Ryuichi-sakamoto"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   ],
+   "lyrics": "[Produced by Ryuichi Sakamoto]\n\n[Elijah Muhammad]\nIf one would open up truth, such as the truth of God to the people, I do think that He's within his rights to stay out of the sight of the people until He has won everything to Himself; as the Bible refers to it like this: He's something like a king looking for a kingdom. And that He goes and he visits the people, then He leaves the people, goes away and waits until the time when that He can secure the kingdom. Then He returns to the people that He had made Himself manifest to. So I think that's a pretty good answer\n\n[Professor Marvel]\nWell, I can't do anything without consulting my crystal first. Let's go inside here, just come along, I'll show you, that's right, here. Sit down right here, that's it. This, this is the same genuine, magic, authentic crystal used by the priest of Isis and Osiris in the days of the pharaohs of Egypt. In which, Cleopatra first saw the approach of Julius Caesar and Mark Antony and so on and so on. Now you better close your eyes, my child, for a moment, in order to be better in tune with the infinite\n\n[Verse: Jay Electronica]\nIt's frustratin' when you just can't express yourself\nAnd it's hard to trust enough to undress yourself\nTo stand exposed and naked, in a world full of hatred\nWhere the sick thoughts of mankind control all the sacred\nI pause, take a step back, record all the setbacks\nFast forward towards the stars and the jetpack\nMy feet might fail me, my heart might ail me\nThe synagogues of Satan might accuse or jail me\nStrip, crown, nail me, brimstone hail me\nThey might defeat the flesh but they could never ever kill me\nThey might can feel the music but could never ever feel me\nTo the lawyers, to the sheriffs, to the judges\nTo the debt holders and the law makers\nFuck you, sue me, bill me\nThat name on that birth certificate, that ain't the real me\nThe lies can't conceal me\nThe sun rise and the moon tides and the sky's gon' reveal me\nMy brain pours water out my tear ducts to heal me\nMy Lord's too beneficent\nThe message grab a hold to every ear it get whispered in\nThe waters in the bayous of New Orleans still glistenin'\nThe universe is listenin', be careful what you say in it\nMy grandma told me every bed a nigga make, he lay in it\nThe church you go to pray in it, the work is on the outside\nStaring out the windows is for love songs and house flies\n\n[Bridge: Latonya Givens]\nI've got somethin' to say\nI, I've got somethin' to say\n\n[Outro: Latonya Givens]\nYesterday, yesterday is gone\nTomorrow, tomorrow is on the way\nYou don't have time to waste\nGotta get it right\nYesterday, yesterday is gone\nTomorrow, tomorrow is on the way\nYou don't have time to waste\nGotta get it right\nYesterday, yesterday is gone\nTomorrow, tomorrow is on the way\nYou don't have time to waste\nGotta get it right"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 27,
+   "api_path": "/songs/5345198",
+   "full_title": "The Neverending Story by\u00a0Jay\u00a0Electronica (Ft.\u00a0JAY-Z & The-Dream)",
+   "header_image_thumbnail_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.1000x1000x1.jpg",
+   "id": 5345198,
+   "instrumental": false,
+   "lyrics_owner_id": 648,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1588014028,
+   "path": "/Jay-electronica-the-neverending-story-lyrics",
+   "pyongs_count": 7,
+   "song_art_image_thumbnail_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 11,
+    "contributors": 81,
+    "iq_earners": 81,
+    "transcribers": 6,
+    "unreviewed_annotations": 16,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 88271
+   },
+   "title": "The Neverending Story",
+   "title_with_featured": "The Neverending Story (Ft.\u00a0JAY-Z & The-Dream)",
+   "updated_by_human_at": 1588014028,
+   "url": "https://genius.com/Jay-electronica-the-neverending-story-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/198",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "id": 198,
+    "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jay Electronica",
+    "url": "https://genius.com/artists/Jay-electronica",
+    "iq": 115
+   },
+   "apple_music_id": "1502677877",
+   "apple_music_player_url": "https://genius.com/songs/5345198/apple_music_player",
+   "description": {
+    "plain": "Song is named after the film, The NeverEnding Story). The movie is about a young boy\u2019s fight against the Nothing following his discovery of a magic book. Similarly, Jay Electronica likely sees himself as a warrior against the evils of the rap world and materialism, his magic book the Koran."
+   },
+   "embed_content": "<div id='rg_embed_link_5345198' class='rg_embed_link' data-song-id='5345198'>Read <a href='https://genius.com/Jay-electronica-the-neverending-story-lyrics'>\u201cThe Neverending Story\u201d by Jay\u00a0Electronica</a> on Genius</div> <script crossorigin src='//genius.com/songs/5345198/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-03-13",
+   "release_date_for_display": "March 13, 2020",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/611662",
+    "cover_art_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.1000x1000x1.jpg",
+    "full_title": "A Written Testimony by Jay Electronica",
+    "id": 611662,
+    "name": "A Written Testimony",
+    "url": "https://genius.com/albums/Jay-electronica/A-written-testimony",
+    "artist": {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/57118",
+       "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "id": 57118,
+       "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roc Nation",
+       "url": "https://genius.com/artists/Roc-nation"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/57118",
+       "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "id": 57118,
+       "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roc Nation",
+       "url": "https://genius.com/artists/Roc-nation"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/57118",
+       "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "id": 57118,
+       "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roc Nation",
+       "url": "https://genius.com/artists/Roc-nation"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/32394",
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/1374517076_YoungGuru.jpg",
+       "id": 32394,
+       "image_url": "https://s3.amazonaws.com/rapgenius/1374517076_YoungGuru.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Young Guru",
+       "url": "https://genius.com/artists/Young-guru",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/642277",
+       "header_image_url": "https://images.genius.com/9fcd253a5f29648b8d24abe265c9c86f.500x332x1.jpg",
+       "id": 642277,
+       "image_url": "https://images.genius.com/154795e82bb09b6fc79cbc0966a02272.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tony Dawsey",
+       "url": "https://genius.com/artists/Tony-dawsey"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/32394",
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/1374517076_YoungGuru.jpg",
+       "id": 32394,
+       "image_url": "https://s3.amazonaws.com/rapgenius/1374517076_YoungGuru.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Young Guru",
+       "url": "https://genius.com/artists/Young-guru",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/2",
+       "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+       "id": 2,
+       "image_url": "https://images.genius.com/c3c09959d27dcb41b9370f69afc9174e.676x676x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "JAY-Z",
+       "url": "https://genius.com/artists/Jay-z",
+       "iq": 175
+      },
+      {
+       "api_path": "/artists/1181",
+       "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+       "id": 1181,
+       "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "The-Dream",
+       "url": "https://genius.com/artists/The-dream",
+       "iq": 10772
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3107091,
+    "annotator_login": "WilliamEricBarnum",
+    "api_path": "/referents/19266011",
+    "classification": "unreviewed",
+    "fragment": "The Neverending Story",
+    "id": 19266011,
+    "is_description": true,
+    "path": "/19266011/Jay-electronica-the-neverending-story/The-neverending-story",
+    "range": {
+     "content": "The Neverending Story"
+    },
+    "song_id": 5345198,
+    "url": "https://genius.com/19266011/Jay-electronica-the-neverending-story/The-neverending-story",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5345198",
+     "client_timestamps": {
+      "updated_by_human_at": 1588014028,
+      "lyrics_updated_at": 1588014028
+     },
+     "context": "Jay Electronica",
+     "id": 5345198,
+     "image_url": "https://images.genius.com/7d262b149cd49d9e7bb5f34c27ade902.1000x1000x1.jpg",
+     "link_title": "The Neverending Story by\u00a0Jay\u00a0Electronica (Ft.\u00a0JAY-Z & The-Dream)",
+     "title": "The Neverending Story",
+     "type": "Song",
+     "url": "https://genius.com/Jay-electronica-the-neverending-story-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19266011",
+      "body": {
+       "plain": "Song is named after the film, The NeverEnding Story). The movie is about a young boy\u2019s fight against the Nothing following his discovery of a magic book. Similarly, Jay Electronica likely sees himself as a warrior against the evils of the rap world and materialism, his magic book the Koran."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 19266011,
+      "pinned": false,
+      "share_url": "https://genius.com/19266011",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/19266011/Jay-electronica-the-neverending-story/The-neverending-story",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3107091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/73ec42c2cfeca2102fe8e103df3195e1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/73ec42c2cfeca2102fe8e103df3195e1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/73ec42c2cfeca2102fe8e103df3195e1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/73ec42c2cfeca2102fe8e103df3195e1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/73ec42c2cfeca2102fe8e103df3195e1",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3107091,
+         "iq": 1465,
+         "login": "WilliamEricBarnum",
+         "name": "WilliamEricBarnum",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/WilliamEricBarnum",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1181",
+     "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+     "id": 1181,
+     "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The-Dream",
+     "url": "https://genius.com/artists/The-dream",
+     "iq": 10772
+    },
+    {
+     "api_path": "/artists/2",
+     "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+     "id": 2,
+     "image_url": "https://images.genius.com/c3c09959d27dcb41b9370f69afc9174e.676x676x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "JAY-Z",
+     "url": "https://genius.com/artists/Jay-z",
+     "iq": 175
+    }
+   ],
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/KIJYcw1nQ1qeMzpLVL7X_Ed%20Ruscha%20ANNTU.jpg",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/KIJYcw1nQ1qeMzpLVL7X_Ed%20Ruscha%20ANNTU.jpg",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/KIJYcw1nQ1qeMzpLVL7X_Ed%20Ruscha%20ANNTU.jpg",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/KIJYcw1nQ1qeMzpLVL7X_Ed%20Ruscha%20ANNTU.jpg",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zgjarme52ts",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 33498,
+    "login": "worstofalltime",
+    "name": "worstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Qv076oX8qbc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1553",
+     "header_image_url": "https://images.genius.com/f742fa730d856fb7b0e8e6a13e5385ed.425x425x1.jpg",
+     "id": 1553,
+     "image_url": "https://images.genius.com/f742fa730d856fb7b0e8e6a13e5385ed.425x425x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Alchemist",
+     "url": "https://genius.com/artists/The-alchemist"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5348477",
+       "full_title": "La Ca\u00edda by\u00a0Litto\u00a0Nebbia",
+       "header_image_thumbnail_url": "https://images.genius.com/e52de5ea03df0c98daea624da8758cf4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e52de5ea03df0c98daea624da8758cf4.640x640x1.jpg",
+       "id": 5348477,
+       "lyrics_owner_id": 6385428,
+       "lyrics_state": "complete",
+       "path": "/Litto-nebbia-la-caida-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e52de5ea03df0c98daea624da8758cf4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e52de5ea03df0c98daea624da8758cf4.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "La Ca\u00edda",
+       "title_with_featured": "La Ca\u00edda",
+       "url": "https://genius.com/Litto-nebbia-la-caida-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1500163",
+        "header_image_url": "https://images.genius.com/6359ddc31d7bb076585d13a27b06125a.1000x1000x1.jpg",
+        "id": 1500163,
+        "image_url": "https://images.genius.com/6359ddc31d7bb076585d13a27b06125a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Litto Nebbia",
+        "url": "https://genius.com/artists/Litto-nebbia"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2",
+     "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+     "id": 2,
+     "image_url": "https://images.genius.com/c3c09959d27dcb41b9370f69afc9174e.676x676x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "JAY-Z",
+     "url": "https://genius.com/artists/Jay-z",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/1181",
+     "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+     "id": 1181,
+     "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The-Dream",
+     "url": "https://genius.com/artists/The-dream",
+     "iq": 10772
+    },
+    {
+     "api_path": "/artists/1856124",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+     "id": 1856124,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1588262610",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mirtha Defilpo",
+     "url": "https://genius.com/artists/Mirtha-defilpo"
+    },
+    {
+     "api_path": "/artists/1500163",
+     "header_image_url": "https://images.genius.com/6359ddc31d7bb076585d13a27b06125a.1000x1000x1.jpg",
+     "id": 1500163,
+     "image_url": "https://images.genius.com/6359ddc31d7bb076585d13a27b06125a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Litto Nebbia",
+     "url": "https://genius.com/artists/Litto-nebbia"
+    },
+    {
+     "api_path": "/artists/1553",
+     "header_image_url": "https://images.genius.com/f742fa730d856fb7b0e8e6a13e5385ed.425x425x1.jpg",
+     "id": 1553,
+     "image_url": "https://images.genius.com/f742fa730d856fb7b0e8e6a13e5385ed.425x425x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Alchemist",
+     "url": "https://genius.com/artists/The-alchemist"
+    },
+    {
+     "api_path": "/artists/198",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "id": 198,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1376434983_jay-electronica.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   ],
+   "lyrics": "[Verse 1: Jay Electronica]\nHave you ever heard the tale of\nThe noblest of gentlemen who rose up from squalor?\nTall,\u2005dark,\u2005and decked out\u2005in customary regalia\nSmellin' like paraphernalia\nHailin' from\u2005the home of Mahalia\nHis uptown smile was gold like a Frankie Beverly day\nHis favorite song from Prince was not \"Raspberry Beret\"\nIt was \"Sometimes It Snows In April\"\nHe was brought up by the faithful\nIn the cage of every unclean bird, ungrateful and hateful\nThe legend of the clandestine reverend from the Bricks\nWith the master's grip to pull the sleeping giant out the ditch\nAnd I ain't even have to wiggle my nose like Bewitched\nI just up-shift to six, convert the V4 to a broomstick\nThough I tarry through the valley of death, my Lord give me pasture\nIf you want to be a master in life, you must submit to a master\nI was born to lock horns with the Devil at the brink of the hereafter\nMe, the socket, the plug, and universal adapter\nThe prodigal son who went from his own vomit\nTo the top of the mountain with five pillars and a sonnet\nThe autobiography read Quranic\nSpread love like Kermit the Frog, that permeate the fog\nI'm at war like the Dukes of Hazzard against the Bosses of the Hogs\nGip-Gip-Giggity, Alchemist put the icing on the soliloquy\nLet it be forever known that I niced up to pen something considerably\nJay Electollah Flomeini mainly is support mainly\nThe fatwa he issued on al-Shay\u1e6d\u0101n was delivered plainly\nIt's the day of Qiy\u0101mah\nTo the believers, I bring you tidings of joy\nBut if you want beef, I'll filet mignon ya\nYou could catch me bummy as fuck or decked out in designer\nOn I-10 West to the desert, on a Diavel like a recliner\nListen to everything from a lecture\nFrom the Honorable Minister Louis Farrakhan\nTo Serge Gainsbourg or Madonna or a podcast on piranhas\nWhat a time we livin' in, just like the scripture says\nEarthquakes, fires, and plagues, the resurrection of the dead\n\n[Verse 2: Jay-Z]\nI'm a miracle born with imperial features\nI'm a page turner, sage burner, Santeria\nChong\u00f3n, December baby, my Orishas\nSaint Hov, story takes place in ancient Egypt\nThey'll cut off the nose to spite their face, they'll steal ya Jesus\nI can't tell Hattie White that blue-eyed version is make believe stuff\nShe throw me out the house, say, \"Ye deliver us from this heathen\"\nI say that to Ms. Tina, she'll sneeze at sun, her photic reflex\nThey both had straightening combs, little did they know\nI hold the heat next\nNeither tool can be used to fix our defects\nP.S. we born perfect, fuck all the B.S\nEverybody wanna be us for real, we just gotta see us\nInsha'Allah\n\n[Outro: The-Dream]\nI tried to turn a page, over a zillion times"
+  }
+ ]
+}
