@@ -44,7 +44,6 @@ def markov_chain(new_list):
     Uses new list from read_songs function to generate the markov chain from the list of lyrics
     """
     m_dict=defaultdict(list)
-    # print (new_list)
     for x in range(len(new_list)):
         for current_word,next_word in zip(new_list[x][0:-1], new_list[x][1:]):
             m_dict[current_word].append(next_word)
@@ -55,7 +54,7 @@ def markov_chain(new_list):
 
 def generate_sentence(m_dict,count=100):
     """
-
+    
     """
     wordl= random.choice(list(m_dict.keys()))
     sentence= wordl.capitalize()
@@ -65,8 +64,10 @@ def generate_sentence(m_dict,count=100):
         sentence += ' ' + word2
     return(sentence)
 
-artist_name = "Lupe Fiasco"
-song_list=["Superstar","Deliver","Till I Get There","All Black Everything", "Madonna"]
+# artist_name = "Lupe Fiasco"
+# song_list=["Superstar","Deliver","Till I Get There","All Black Everything", "Madonna"]
+# song_list=str(song_list)
+# print(type(song_list))
 
-new_list = read_songs(artist_name,song_list)
-print(generate_sentence(markov_chain(new_list)))
+# new_list = read_songs(artist_name,song_list)
+# print(generate_sentence(markov_chain(new_list)))

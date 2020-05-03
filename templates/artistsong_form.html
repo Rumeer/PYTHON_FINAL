@@ -5,18 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <form method="POST" name="stop finder">
+<body style="background-color: #B57EDC;">
+    <form method="POST" name="lyric_maker">
       {% if error %}
-      <p style="color:red">This is not a valid location or there are no MBTA stops within half of a mile </p>
+      <p style="color:red">This is not right </p>
       {% endif %}
-        <h1> What MBTA Station is Near Me?</h1>
-        <p> Please enter an address or location in Boston that you would like to find the nearest MBTA station to:</p>
-        <p> Location: <input type="text" name="artist_name" 
-            placeholder="50 Milk St or Harvard Square">
+        <h1><center> Choose an artist and 6+ songs</center></h1>
+        <p> Please enter an artist you would like to generate an original verse for:</p>
+        <p><b>Artist:</b><input style="width:350px;" type="text" name="artist_name" 
+            placeholder="J Cole, Kendrick Lamar, Joey Bada$$">
         </p>
-        <p> Location: <input type="text" name="song_list" 
-            placeholder="50 Milk St or Harvard Square">
+        <p>Please enter in 6 songs seperated by commas you would like to base the lyrics off of:</p>
+        <p> <b>Songs:</b> <input style="width:500px;"type="text" name="song_list" 
+            placeholder="1984, Alright, For my people">
         </p>
         <p>
             <input type="submit">

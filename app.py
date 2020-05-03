@@ -1,9 +1,12 @@
 from flask import Flask , render_template, request
 import lyrics
-
+from lyrics import read_songs , lyrics_list ,markov_chain ,generate_sentence
+app=Flask(__name__)
 @app.route("/")
+
 def index():
     return render_template("index.html")
+
 @app.route("/hello/")
 @app.route("/hello/<name>")
 def hello(name=None):
@@ -11,26 +14,24 @@ def hello(name=None):
         name = name.upper()
     return render_template("hello.html", name=name)
 
-
+@app.route("/whythis/")
+    return render_template("whythis.html")
 
 @app.route("/lyrics/", methods=["GET", "POST"])
-def nearest():
+def lyrics():
     if request.method == "POST":
-        place_name = str(request.form["place_name"])
-        mbta_stop = find_stop_near(place_name)
-        """"
-        artist_name = "Lupe Fiasco"
-        song_list=["Superstar","Deliver","Till I Get There","All Black Everything", "Madonna"]
-        new_list = read_songs(artist_name,song_list)
-        print(generate_sentence(markov_chain(new_list)))
-        """"
-        if mbta_stop:
+        artist_name = str(request.form["artist_name"])
+        song_list = list(str(request.form["song_list"]).split(","))
+        new_list = read_songs(artist_name, song_list)
+        m_dict= markov_chain(new_list)
+        sentence= generate_sentence(m_dict, count=100)
+        if sentence:
             return render_template(
-                "mbta_result.html", place_name=place_name , mbta_stop=mbta_stop
-            )
+                "lyric_output.html", artist_name=artist_name , song_list=song_list , sentence=sentence
+                )
         else:
-            return render_template("mbta_form.html", error=True)
-    return render_template("mbta_form.html", error=None)
+            return render_template("artistsong_form.html", error=True)
+    return render_template("artistsong_form.html", error=None)
     
-if __name__=="__main__":
-    app.run(debug=True)
+# if __name__=="__main__":
+#     app.run(debug= False)
