@@ -3,7 +3,6 @@ import lyrics
 from lyrics import read_songs , lyrics_list ,markov_chain ,generate_sentence
 app=Flask(__name__)
 @app.route("/")
-
 def index():
     return render_template("index.html")
 
@@ -15,7 +14,8 @@ def hello(name=None):
     return render_template("hello.html", name=name)
 
 @app.route("/whythis/")
-    return render_template("whythis.html")
+def whythis():
+        return render_template("whythis.html")
 
 @app.route("/lyrics/", methods=["GET", "POST"])
 def lyrics():
