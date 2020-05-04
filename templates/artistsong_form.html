@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body style="background-color: #B57EDC;">
-    <form method="POST" name="lyric_maker">
+    <form method="POST" name="lyric_maker" action= "/lyrics/">
       {% if error %}
       <p style="color:red">This is not right </p>
       {% endif %}
@@ -16,11 +16,11 @@
             placeholder="J Cole, Kendrick Lamar, Joey Bada$$">
         </p>
         <p>Please enter in 6 songs seperated by commas you would like to base the lyrics off of:</p>
-        <p> <b>Songs:</b> <input style="width:500px;"type="text" name="song_list" 
+        <p> <b>Songs:</b> <input style="width:350px;"type="text" name="song_list" 
             placeholder="1984, Alright, For my people">
         </p>
         <p>
-            <input type="submit">
+            <input type="submit" value="submit">
         </p>
     </form>
 </body>
