@@ -33,5 +33,5 @@ def lyrics():
             return render_template("artistsong_form.html", error=True)
     return render_template("artistsong_form.html", error=None)
     
-# if __name__=="__main__":
-#     app.run(debug= False)
+if __name__=="__main__":
+    app.run(debug= True)
