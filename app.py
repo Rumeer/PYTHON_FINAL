@@ -1,7 +1,9 @@
 from flask import Flask , render_template, request
 import lyrics
 from lyrics import read_songs , lyrics_list ,markov_chain ,generate_sentence
+
 app=Flask(__name__)
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -14,7 +16,7 @@ def hello():
 def whythis():
         return render_template("whythis.html")
 
-@app.route("/lyrics/", methods=["GET","POST"])
+@app.route("/lyrics/", methods=["GET", "POST"])
 def lyrics():
     if request.method == "POST":
         artist_name = str(request.form["artist_name"])
@@ -27,9 +29,9 @@ def lyrics():
                 "lyric_output.html", artist_name=artist_name , song_list=song_list , sentence=sentence
                 )
         else:
-            return render_template("error.html")
-    #         return render_template("artistsong_form.html", error=True)
-        # return render_template("artistsong_form.html", error=None)
-    
+            return render_template("artistsong_form.html", error=True)
+    return render_template("artistsong_form.html", error=None)
+
 if __name__=="__main__":
-    app.run(debug= True)
+    app.run(debug= False)
+    
