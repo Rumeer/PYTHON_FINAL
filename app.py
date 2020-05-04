@@ -27,9 +27,9 @@ def lyrics():
                 "lyric_output.html", artist_name=artist_name , song_list=song_list , sentence=sentence
                 )
         else:
-            return render_template("hello.html")
-            # return render_template("artistsong_form.html", error=True)
-    # return render_template("artistsong_form.html", error=None)
+            return render_template("error.html")
+    #         return render_template("artistsong_form.html", error=True)
+        # return render_template("artistsong_form.html", error=None)
     
 if __name__=="__main__":
     app.run(debug= True)
