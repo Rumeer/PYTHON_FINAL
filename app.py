@@ -7,17 +7,14 @@ def index():
     return render_template("index.html")
 
 @app.route("/hello/")
-@app.route("/hello/<name>")
-def hello(name=None):
-    if name:
-        name = name.upper()
-    return render_template("hello.html", name=name)
+def hello():
+    return render_template("hello.html")
 
 @app.route("/whythis/")
 def whythis():
         return render_template("whythis.html")
 
-@app.route("/lyrics/", methods=["GET", "POST"])
+@app.route("/lyrics/", methods=["GET","POST"])
 def lyrics():
     if request.method == "POST":
         artist_name = str(request.form["artist_name"])
@@ -30,8 +27,9 @@ def lyrics():
                 "lyric_output.html", artist_name=artist_name , song_list=song_list , sentence=sentence
                 )
         else:
-            return render_template("artistsong_form.html", error=True)
-    return render_template("artistsong_form.html", error=None)
+            return render_template("error.html")
+    #         return render_template("artistsong_form.html", error=True)
+        # return render_template("artistsong_form.html", error=None)
     
 if __name__=="__main__":
     app.run(debug= True)
