@@ -14,7 +14,7 @@ def hello():
 def whythis():
         return render_template("whythis.html")
 
-@app.route("/lyrics/", methods=["POST"])
+@app.route("/lyrics/", methods=["GET","POST"])
 def lyrics():
     if request.method == "POST":
         artist_name = str(request.form["artist_name"])
